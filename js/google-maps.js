@@ -14,7 +14,7 @@ $(document).ready(function(){
         var marker = new google.maps.Marker({
             position: new google.maps.LatLng(40.504659, -79.869650),
             map: map,
-            title: '634 Alpha Dr'
+            title: 'Fox Chapel Executive Suites'
         });
     }
 });
